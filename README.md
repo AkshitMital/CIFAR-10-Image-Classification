@@ -38,5 +38,6 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 If you have any questions or suggestions, please feel free to contact Akshit Mittal at [mittalakshit4@gmail.com].
 
 A Demo of the model predicting image from a random image URL from internet:
-<img width="1423" alt="Screenshot 2023-08-27 at 12 49 18 AM" src="https://github.com/AkshitMital/CIFAR-10-Image-Classification/assets/116814372/cbf577f1-e66b-4b51-9291-dc0b08f5621e">
+<img width="1438" alt="Screenshot 2023-08-31 at 12 09 06 AM" src="https://github.com/AkshitMital/CIFAR-10-Image-Classification/assets/116814372/51ba8a94-6ca2-41b1-b55f-a242b559b076">
+
 
